@@ -1,1 +1,3 @@
-# cook-book-resto-guru
+# Cook-Book-Resto-Guru
+
+npm start
